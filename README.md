@@ -3,7 +3,7 @@
 A web portal for centralized access to Botswana’s financial regulatory documents, guidelines, FAQs, compliance checklists, and AI-powered assistance.
 
 **Live Deployment:** [tomosk-group.vercel.app](https://tomosk-group.vercel.app)  
-**Demo Video:** [youtu.be/JiEN-cl9ci4?si=U1UIA-Z2sBK_GbYs](https://youtu.be/JiEN-cl9ci4?si=U1UIA-Z2sBK_GbYs)
+**Demo Video:** [youtu.be/JiEN-cI9ci4?si=U1UlA-Z2sBK_GbYs](https://youtu.be/JiEN-cI9ci4?si=U1UlA-Z2sBK_GbYs)
 
 **Author:** Tomosk Group
 
